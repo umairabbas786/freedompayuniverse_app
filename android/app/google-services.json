@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "270182375728",
+    "project_id": "freedompayuniverse-92c0f",
+    "storage_bucket": "freedompayuniverse-92c0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270182375728:android:8e98e8095401e2502668f5",
+        "android_client_info": {
+          "package_name": "com.freedompayuniverse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270182375728-huanltvob61ciim01ujgtbiqma67tbf9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8tcLi8QTMe-txuTIR4dcD4JH62eJ9aLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270182375728-huanltvob61ciim01ujgtbiqma67tbf9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "270182375728-k08s79e2hnkcu50bm9c854vrlhtbe927.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.FreedomPayUniverse"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
